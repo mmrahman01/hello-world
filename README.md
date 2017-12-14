@@ -2,5 +2,7 @@
 First program
 
 12/13/2017...start getting ready for CS495.
-First comment
+
+
 Create a pull request
+already commented and deleted line 6
